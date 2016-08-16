@@ -260,9 +260,12 @@ p {
 }
 .education h4 {
     color: #fff;
-    font-size: 1.2em;
+    font-size: 1.3em;
+    padding-left: 20px;
+    padding-bottom: 10px;
 }
 .education p {
+    padding-left: 30px;
     color: #fff;
 }
 /*--//education--*/
@@ -282,7 +285,7 @@ p {
     background-color: #fff;
 }
 .progress-bar { 
-    background-color: #28597a;
+    background-color: #337ab7;
 }
 .bar-grids h6 {
     font-size: 1.1em;
